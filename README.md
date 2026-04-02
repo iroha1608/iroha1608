@@ -1,4 +1,4 @@
-# Hi there, I'm [Naoaki Sato] 👋
+# Hi there, I'm Naoaki Sato 👋
 ---
 **プロフィール作成中！**  
 Backend / Infrastructure focused learner.
@@ -28,8 +28,8 @@ Backend / Infrastructure focused learner.
 * **Knowledge Base**: Obsidian
 
 ## 🚀 Featured Projects
-* **[Kodakku]**: 非同期処理を用いたDiscord Botアプリケーション。Compute Engine上で常時稼働中。
-* **[Gemini-CLI-Automator]**: Gemini CLIを活用し、マークダウン要件定義からディレクトリ・ファイル生成、コードレビューまでを自動化するローカル開発ワークフロー。
+* **Kodakku**: 非同期処理を用いたDiscord Botアプリケーション。Compute Engine上で常時稼働中。
+* **Gemini-CLI-Automator**: Gemini CLIを活用し、マークダウン要件定義からディレクトリ・ファイル生成、コードレビューまでを自動化するローカル開発ワークフロー。
 
 ## 📈 GitHub Stats
 <div align="center">
