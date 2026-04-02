@@ -1,6 +1,6 @@
-## Hi there 👋
 # Hi there, I'm [Naoaki Sato] 👋
-**プロフィール作成中！**
+---
+**プロフィール作成中！**  
 Backend / Infrastructure focused learner.
 現在、42Tokyoのカリキュラムを通じてコンピュータサイエンスの基礎（C言語 / メモリ管理 / Linuxシステム）を深く学びつつ、Pythonを用いたアプリケーション開発とインフラ構築の実践を並行して行っています。
 
